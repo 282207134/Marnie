@@ -1,0 +1,132 @@
+{
+  "01_splash": {
+    "file": "01_splash.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "02_login": {
+    "file": "02_login.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "03_sign_up": {
+    "file": "03_sign_up.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "04_country": {
+    "file": "04_country.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "05_rate_us": {
+    "file": "05_rate_us.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "06_home": {
+    "file": "06_home.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "06b_home_collections": {
+    "file": "06b_home_collections.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "06c_home_newsletter": {
+    "file": "06c_home_newsletter.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "07_menu": {
+    "file": "07_menu.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "08_category": {
+    "file": "08_category.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "09_filters": {
+    "file": "09_filters.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "09b_filters_sizes_price": {
+    "file": "09b_filters_sizes_price.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "10_product": {
+    "file": "10_product.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "10b_product_options": {
+    "file": "10b_product_options.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "11_reviews": {
+    "file": "11_reviews.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "12_bag_empty": {
+    "file": "12_bag_empty.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "13_bag": {
+    "file": "13_bag.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "13b_bag_checkout": {
+    "file": "13b_bag_checkout.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "14_search": {
+    "file": "14_search.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "15_saved": {
+    "file": "15_saved.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "16_account": {
+    "file": "16_account.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "17_map": {
+    "file": "17_map.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "18_settings": {
+    "file": "18_settings.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "19_settings_profile": {
+    "file": "19_settings_profile.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "20_settings_dark": {
+    "file": "20_settings_dark.png",
+    "width": 1125,
+    "height": 2436
+  },
+  "21_scan": {
+    "file": "21_scan.png",
+    "width": 1125,
+    "height": 2436
+  }
+}

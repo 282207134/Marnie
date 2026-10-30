@@ -1,0 +1,9 @@
+Validation date: 2026-10-30
+Flutter 3.41.6 / Dart 3.11.4
+Android release build: PASS
+APK: Marnie-1.0.0.apk
+APK bytes: 50184972
+SHA-256: 123dcb8867fbbb1ffe95efc63237894953cff056785dec3d3314bcc1f76afec2
+Web release build: PASS
+Native release install and login: PASS
+Native restart login persistence: PASS

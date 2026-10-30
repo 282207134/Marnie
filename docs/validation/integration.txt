@@ -1,0 +1,8 @@
+Android 15 / API 35 / arm64 emulator
+Flutter logical viewport: 375 × 812
+Screenshots: 1125 × 2436 px
+
+I/flutter ( 3918): 00:00 +0: all reference screens and complete shopping flow
+I/flutter ( 3918): 01:31 +1: (tearDownAll)
+I/flutter ( 3918): 01:32 +2: All tests passed!
+All tests passed.
